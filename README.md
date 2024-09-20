@@ -14,7 +14,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=juan-marini&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
  
-### 🛜 Vamos nos conectar!
+### Vamos nos conectar!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-marini/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juanmarini_/)
