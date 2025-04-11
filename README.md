@@ -5,12 +5,12 @@
 
 <div align="left">  
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-marini&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /> 
+  ![](https://nirzak-streak-stats.vercel.app/?user=juan-marini&theme=dark&hide_border=false)<br/>
 </div>
 
 # 📊 GitHub Stats:
-//![](https://github-readme-stats.vercel.app/api?username=juan-marini&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=juan-marini&theme=dark&hide_border=false)<br/>
-//![](https://github-readme-stats.vercel.app/api/top-langs/?username=juan-marini&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=juan-marini&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=juan-marini&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### Vamos nos conectar!
 
