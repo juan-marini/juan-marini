@@ -6,7 +6,7 @@
 <div align="left">  
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-marini&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /> 
 </div>
-![](https://nirzak-streak-stats.vercel.app/?user=juan-marini&theme=dark&hide_border=false)<br/>
+!(https://nirzak-streak-stats.vercel.app/?user=juan-marini&theme=dark&hide_border=false)<br/>
 
 ### Vamos nos conectar!
 
